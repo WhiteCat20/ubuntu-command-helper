@@ -12,3 +12,7 @@ gnome-screenshot
   ## basic ubuntu terminal cli commands
     mkdir => create folder
     touch => creating file with any extension (.txt, .js, or whatever)
+    
+  ## mouse wheel speed
+     sudo apt install imwheel
+     bash <(curl -s http://www.nicknorton.net/mousewheel.sh)
