@@ -15,4 +15,5 @@
     
   ## mouse wheel speed
      sudo apt install imwheel
+  ## command mouse wheel speed
      bash <(curl -s http://www.nicknorton.net/mousewheel.sh)
