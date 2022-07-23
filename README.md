@@ -5,6 +5,10 @@
 
    ## open xampp control panel
     sudo /opt/lampp/manager-linux-x64.run
+   
+   ## start xampp
+      sudo service mysql stop
+      sudo /opt/lampp/lampp restart
 
 ## screenshot
     gnome-screenshot
