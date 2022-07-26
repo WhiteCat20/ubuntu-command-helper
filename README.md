@@ -2,7 +2,8 @@
 
   ## giving permission to denied folder
     sudo chmod -R 777
-
+  ## shutdown apache2
+     sudo service apache2 stop
    ## open xampp control panel
     sudo /opt/lampp/manager-linux-x64.run
    
@@ -10,8 +11,8 @@
       sudo service mysql stop
       sudo /opt/lampp/lampp restart
 
-## screenshot
-    gnome-screenshot
+  ## screenshot
+      gnome-screenshot
 
   ## basic ubuntu terminal cli commands
     mkdir => create folder
