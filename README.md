@@ -1,5 +1,5 @@
 # ubuntu-command-helper
-    ## command mouse wheel speed
+   ## command mouse wheel speed
      bash <(curl -s http://www.nicknorton.net/mousewheel.sh)
   ## giving permission to denied folder
     sudo chmod -R 777
